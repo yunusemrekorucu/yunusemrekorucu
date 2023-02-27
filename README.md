@@ -13,7 +13,7 @@
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@thekadir.com)](mailto:contact@thekadir.com) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-korucu-46b006231/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:korucuyunus007@gmail.com)](mailto:korucuyunus007@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-korucu-46b006231/)
 
 <br />
 <br />
