@@ -1,5 +1,4 @@
 ##  Hi , I'm Yunus Emre. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" height="27px" />
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 <h4 align="left">Hello, welcome to my github profile. I'm a web and mobile developer. 
 <br/>
 <br/>
@@ -9,9 +8,6 @@
 ![age](https://img.shields.io/badge/Age-19-blue)  ![living](https://img.shields.io/badge/Living-Turkey-3c9) <img src="https://komarev.com/ghpvc/?username=yunusemrq&color=brightgreen" alt="watching_count" />
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:korucuyunus007@gmail.com)](mailto:korucuyunus007@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-korucu-46b006231/)
-<br />
-<br />
-<br />
 <br />
 <br />
 <h3 align="left">👨‍💻 Framework , Libraries & Programing Languages </h3>
